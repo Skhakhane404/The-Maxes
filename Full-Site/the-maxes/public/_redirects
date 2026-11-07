@@ -1,0 +1,4 @@
+# Redirect to www
+https://the-maxes.com/* https://www.the-maxes.com/:splat 301!
+# Standard redirects
+/* /index.html 200

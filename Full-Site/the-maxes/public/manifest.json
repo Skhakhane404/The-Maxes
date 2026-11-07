@@ -1,0 +1,21 @@
+{
+  "name": "THE MAXES Body Repair and Spray Paint",
+  "short_name": "THE MAXES",
+  "description": "Premium panel beating and spray painting services in Welkom",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0D0D0D",
+  "theme_color": "#E85D04",
+  "icons": [
+    {
+      "src": "/maxeslogo-smaller.jpg",
+      "sizes": "192x192",
+      "type": "image/jpeg"
+    },
+    {
+      "src": "/maxeslogo-smaller.jpg",
+      "sizes": "512x512",
+      "type": "image/jpeg"
+    }
+  ]
+}
