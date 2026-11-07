@@ -1,16 +1,32 @@
-# React + Vite
+The Maxes
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Official web application for The Maxes, a professional panelbeating and spray painting workshop.
 
-Currently, two official plugins are available:
+Live Website: www.the-maxes.com
+What it does
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+I built this app to help the workshop engage with customers digitally. It makes it easy for clients to get in touch and request services without having to call.
+Key Features
 
-## React Compiler
+WhatsApp Integration: Customers can click a button to instantly chat with the workshop on WhatsApp.
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+    Quote Form: A simple form for customers to submit their details and request a quotation.
 
-## Expanding the ESLint configuration
+    Mobile Friendly: Works perfectly on phones so customers can use it on the go.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+Tech Stack
+
+    React
+
+    Vite
+
+    JavaScript
+
+How to run it locally
+
+    Open your terminal and go to the app folder: cd Full-Site/the-maxes
+
+    Install the required files: npm install
+
+    Start the app: npm run dev
+
